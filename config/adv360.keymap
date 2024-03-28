@@ -61,9 +61,9 @@
 
             #binding-cells = <2>;
             hold-trigger-key-positions = <52 53 65 66 67 68 69 70 35 36 37 38 52 53 66 69 70>;
-            tapping-term-ms = <200>;
-            quick-tap-ms = <150>;
-            require-prior-idle-ms = <175>;
+            tapping-term-ms = <100>;
+            quick-tap-ms = <50>;
+            require-prior-idle-ms = <0>;
         };
     };
 
