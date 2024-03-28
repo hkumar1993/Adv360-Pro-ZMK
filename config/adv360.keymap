@@ -100,5 +100,15 @@
 &none  &none         &none         &none         &none                       &none        &none  &none      &none       &bl BL_TOG  &rgb_ug RGB_TOG                &bl BL_INC  &bl BL_DEC  &none  &none  &none
             >;
         };
+
+        Gaming {
+            bindings = <
+&kp ESC    &trans     &trans    &trans    &trans     &trans  &trans                                                 &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp ESC    &kp I      &kp Q     &kp W     &kp E      &kp R   &kp T                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp TAB    &kp M      &kp A     &kp S     &kp D      &kp F   &kp G      &kp LALT   &kp DEL       &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp LSHFT  &kp J      &kp Z     &kp X     &kp C      &kp V                         &kp HOME      &trans                     &trans  &trans  &trans  &trans  &trans  &trans
+&tog 4     &kp GRAVE  &kp LEFT  &kp LEFT  &kp RIGHT          &kp SPACE  &kp LCTRL  &kp M         &kp LCTRL  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+            >;
+        };
     };
 };
