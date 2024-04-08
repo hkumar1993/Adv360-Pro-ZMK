@@ -117,7 +117,7 @@
 &kp ESC    &kp I      &kp Q     &kp W     &kp E      &kp R   &kp T                                             &none  &none  &none  &none  &none  &none  &none
 &kp TAB    &kp M      &kp A     &kp S     &kp D      &kp F   &kp G      &kp LALT   &kp DEL       &none  &none  &none  &none  &none  &none  &none  &none  &none
 &kp LSHFT  &kp J      &kp Z     &kp X     &kp C      &kp V                         &kp HOME      &none                &none  &none  &none  &none  &none  &none
-&tog 5     &kp GRAVE  &kp LEFT  &kp LEFT  &kp RIGHT          &kp SPACE  &kp LCTRL  &kp M         &none  &none  &none         &none  &none  &none  &none  &none
+&tog 4     &kp GRAVE  &kp LEFT  &kp LEFT  &kp RIGHT          &kp SPACE  &kp LCTRL  &kp M         &none  &none  &none         &none  &none  &none  &none  &none
             >;
         };
 
